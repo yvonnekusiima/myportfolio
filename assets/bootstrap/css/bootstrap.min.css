@@ -18,7 +18,7 @@
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
-    --primary: #0ea0ff;
+    --primary: #082230;
     --secondary: #6c757d;
     --success: #28a745;
     --info: #6091ef;
@@ -144,7 +144,7 @@ sup {
 }
 
 a {
-    color: #0ea0ff;
+    color: #082230;
     text-decoration: none;
     background-color: transparent
 }
@@ -2522,7 +2522,7 @@ select.form-control[multiple], select.form-control[size], textarea.form-control 
     padding: .375rem 1rem;
     font-size: 1rem;
     line-height: 1.5;
-    border-radius: 2em;
+    border-radius: .25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
 
@@ -2556,14 +2556,14 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #0ea0ff;
-    border-color: #0ea0ff
+    background-color: #082230;
+    border-color: #082230
 }
 
     .btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
         color: #fff;
-        background-color: #008ce7;
-        border-color: #0084da
+        background-color: #fdb913;
+        border-color: #fdb913
     }
 
     .btn-primary.focus, .btn-primary:focus {
@@ -2572,13 +2572,13 @@ a.btn.disabled, fieldset:disabled a.btn {
 
     .btn-primary.disabled, .btn-primary:disabled {
         color: #fff;
-        background-color: #0ea0ff;
-        border-color: #0ea0ff
+        background-color: #082230;
+        border-color: #082230
     }
 
     .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
         color: #fff;
-        background-color: #0084da;
+        background-color: #fdb913;
         border-color: #007ccd
     }
 
@@ -2811,14 +2811,14 @@ a.btn.disabled, fieldset:disabled a.btn {
         }
 
 .btn-outline-primary {
-    color: #0ea0ff;
-    border-color: #0ea0ff
+    color: #082230;
+    border-color: #082230
 }
 
     .btn-outline-primary:hover {
         color: #fff;
-        background-color: #0ea0ff;
-        border-color: #0ea0ff
+        background-color: #082230;
+        border-color: #082230
     }
 
     .btn-outline-primary.focus, .btn-outline-primary:focus {
@@ -2826,14 +2826,14 @@ a.btn.disabled, fieldset:disabled a.btn {
     }
 
     .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-        color: #0ea0ff;
+        color: #082230;
         background-color: transparent
     }
 
     .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
         color: #fff;
-        background-color: #0ea0ff;
-        border-color: #0ea0ff
+        background-color: #082230;
+        border-color: #082230
     }
 
         .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
@@ -3052,7 +3052,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #0ea0ff;
+    color: #082230;
     text-decoration: none
 }
 
@@ -3345,7 +3345,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     .dropdown-item.active, .dropdown-item:active {
         color: #fff;
         text-decoration: none;
-        background-color: #0ea0ff
+        background-color: #082230
     }
 
     .dropdown-item.disabled, .dropdown-item:disabled {
@@ -3641,8 +3641,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 
     .custom-control-input:checked ~ .custom-control-label:before {
         color: #fff;
-        border-color: #0ea0ff;
-        background-color: #0ea0ff
+        border-color: #082230;
+        background-color: #082230
     }
 
     .custom-control-input:focus ~ .custom-control-label:before {
@@ -3702,8 +3702,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label:before {
-    border-color: #0ea0ff;
-    background-color: #0ea0ff
+    border-color: #082230;
+    background-color: #082230
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label:after {
@@ -3934,7 +3934,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
         width: 1rem;
         height: 1rem;
         margin-top: -.25rem;
-        background-color: #0ea0ff;
+        background-color: #082230;
         border: 0;
         border-radius: 1rem;
         transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
@@ -3965,7 +3965,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 .custom-range::-moz-range-thumb {
     width: 1rem;
     height: 1rem;
-    background-color: #0ea0ff;
+    background-color: #082230;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
@@ -3999,7 +3999,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     margin-top: 0;
     margin-right: .2rem;
     margin-left: .2rem;
-    background-color: #0ea0ff;
+    background-color: #082230;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
@@ -4129,7 +4129,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 
     .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
         color: #fff;
-        background-color: #0ea0ff
+        background-color: #082230
     }
 
 .nav-fill .nav-item, .nav-fill > .nav-link {
@@ -4847,7 +4847,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     padding: .5rem .75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #0ea0ff;
+    color: #082230;
     background-color: #fff;
     border: 1px solid #dee2e6
 }
@@ -4880,8 +4880,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #0ea0ff;
-    border-color: #0ea0ff
+    background-color: #082230;
+    border-color: #082230
 }
 
 .page-item.disabled .page-link {
@@ -4964,12 +4964,12 @@ a.badge:focus, a.badge:hover {
 
 .badge-primary {
     color: #fff;
-    background-color: #0ea0ff
+    background-color: #082230
 }
 
 a.badge-primary:focus, a.badge-primary:hover {
     color: #fff;
-    background-color: #0084da
+    background-color: #fdb913
 }
 
 a.badge-primary.focus, a.badge-primary:focus {
@@ -5284,7 +5284,7 @@ a.badge-dark.focus, a.badge-dark:focus {
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #0ea0ff;
+    background-color: #fdb913;
     transition: width .6s ease
 }
 
@@ -5378,8 +5378,8 @@ a.badge-dark.focus, a.badge-dark:focus {
     .list-group-item.active {
         z-index: 2;
         color: #fff;
-        background-color: #0ea0ff;
-        border-color: #0ea0ff
+        background-color: #082230;
+        border-color: #082230
     }
 
     .list-group-item + .list-group-item {
@@ -6566,11 +6566,11 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #0ea0ff !important
+    background-color: #082230 !important
 }
 
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
-    background-color: #0084da !important
+    background-color: #fdb913 !important
 }
 
 .bg-secondary {
@@ -6678,7 +6678,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .border-primary {
-    border-color: #0ea0ff !important
+    border-color: #082230 !important
 }
 
 .border-secondary {
@@ -10092,7 +10092,7 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #0ea0ff !important
+    color: #082230 !important
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -10283,7 +10283,7 @@ a.text-dark:focus, a.text-dark:hover {
 }
 
 .gradient {
-    background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+    background: linear-gradient(120deg,#082230,#082230);
     color: #fff
 }
 
@@ -10415,7 +10415,7 @@ a.text-dark:focus, a.text-dark:hover {
         }
 
 .portfolio-block.skills {
-    border-bottom: 1px solid #ddd
+    border-bottom: 0px solid #ddd
 }
 
 .special-skill-item {
@@ -10426,7 +10426,7 @@ a.text-dark:focus, a.text-dark:hover {
     .special-skill-item .icon {
         text-align: center;
         font-size: 50px;
-        background-color: #0ea0ff;
+        background-color: #082230;
         color: #fff;
         height: 70px;
         width: 70px;
@@ -10528,7 +10528,7 @@ a.text-dark:focus, a.text-dark:hover {
 
         .portfolio-block.cv .group .organization {
             font-size: .85em;
-            background-color: #0ea0ff;
+            background-color: #082230;
             display: inline-block;
             color: #fff;
             padding: 2px 8px;
@@ -10714,7 +10714,7 @@ a.text-dark:focus, a.text-dark:hover {
 .project-card-no-image {
     box-shadow: 0 2px 10px rgba(0,0,0,.075);
     padding: 35px;
-    border-top: 4px solid #0ea0ff;
+    border-top: 4px solid #082230;
     margin-bottom: 30px
 }
 
@@ -10993,13 +10993,15 @@ a.text-dark:focus, a.text-dark:hover {
 .page-footer {
     padding-top: 35px;
     border-top: 0px solid #ddd;
-    text-align: center;
-    padding-bottom: 20px
+    /* text-align: center; */
+    padding-bottom: 20px;
+	background: #082230;
+	color: #fff
 }
 
     .page-footer a {
         margin: 0 10px;
-        color: #282b2d;
+        color: #fff;
         font-size: 18px
     }
 
@@ -11016,14 +11018,14 @@ a.text-dark:focus, a.text-dark:hover {
             font-size: 18px;
             margin: 0 3px;
             color: #fff;
-            border: 1px solid;
+            border: 0px solid;
             opacity: .75;
             border-radius: 50%;
             width: 36px;
             display: inline-block;
             height: 36px;
             text-align: center;
-            background-color: #c5c9d2;
+            background-color: #fdb913;
             line-height: 34px
         }
 
