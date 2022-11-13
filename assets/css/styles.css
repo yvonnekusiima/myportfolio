@@ -2170,12 +2170,13 @@ body {
     -moz-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
     box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
     background-color: transparent;
-    border-color: transparent;
+    /* border-color: transparent; */
     border-radius: 4px;
     margin-bottom: 20px;
     width: 100%;
     padding: 20px;
     outline: 0;
+	font-size: 16px
 }
 
     .mh-footer .contact-message:focus {
