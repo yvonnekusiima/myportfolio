@@ -1551,6 +1551,7 @@ body {
 
     .mh-progress .progressbar-text {
         color: inherit !important;
+		font-family: "Tajawal", sans-serif;
     }
 
 .progress.progress-line {
@@ -1618,6 +1619,7 @@ body {
                 right: 0;
                 font-size: 14px;
                 font-weight: normal;
+				font-family: "Tajawal", sans-serif;
             }
 
         .candidatos .parcial .progressBar {
