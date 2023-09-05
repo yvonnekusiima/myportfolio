@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;300;400;500;600;700;800;900");
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@100;200;300;400;500;600;700;800;900");
 
-@import url(Figtree-font.css);
+@import url(metropolis-font.css);
 
 /*
 ================
@@ -254,8 +254,8 @@ a {
 }
 
 section {
-    //padding: 60px 0;
-    //padding-bottom: 30px;
+    padding: 60px 0;
+    padding-bottom: 30px;
 }
 
 /**
@@ -1757,12 +1757,12 @@ body {
         }
 
         .mh-work .mh-experience-deatils .mh-work-item span {
-            font-size: 12px;
+            font-size: 13px;
             line-height: 22px;
         }
 
         .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li {
-            font-size: 14px;
+            font-size: 15px;
             line-height: 23px;
             margin: 2px 0;
         }
@@ -3553,5 +3553,3 @@ BLOG Pagination
     line-height: 30px;
     margin-bottom: 30px;
 }
-
-/*# sourceMappingURL=styles.css.map */

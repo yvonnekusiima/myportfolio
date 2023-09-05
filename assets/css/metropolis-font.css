@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Black.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-BoldItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Bold.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: 'Metropolis Extra';
-    src: url('Metropolis-ExtraLight.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: 'Metropolis Extra';
-    src: url('Metropolis-ExtraBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-ExtraBoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
     font-family: 'Metropolis Extra';
-    src: url('Metropolis-ExtraBold.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-BlackItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -56,7 +56,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Light.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -64,7 +64,7 @@
 
 @font-face {
     font-family: 'Metropolis Extra';
-    src: url('Metropolis-ExtraLightItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-ExtraLightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -72,7 +72,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-LightItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -80,7 +80,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Medium.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -88,7 +88,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Regular.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -96,7 +96,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-MediumItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -104,7 +104,7 @@
 
 @font-face {
     font-family: 'Metropolis Semi';
-    src: url('Metropolis-SemiBold.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -112,7 +112,7 @@
 
 @font-face {
     font-family: 'Metropolis Semi';
-    src: url('Metropolis-SemiBoldItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -120,7 +120,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-RegularItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-RegularItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -128,7 +128,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-Thin.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -136,7 +136,7 @@
 
 @font-face {
     font-family: 'Metropolis';
-    src: url('Metropolis-ThinItalic.ttf') format('truetype');
+    src: url('../fonts/Metropolis/Metropolis-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
