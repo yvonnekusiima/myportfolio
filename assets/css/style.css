@@ -1217,7 +1217,7 @@ body {
 
         .mh-header .navbar-nav li a {
             border-bottom: 1px solid transparent;
-            font-weight: bold;
+            font-weight: 600;
             font-family: "Figtree", sans-serif;
             font-size: 18px;
             opacity: 1;
@@ -1764,7 +1764,7 @@ body {
         .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li {
             font-size: 15px;
             line-height: 23px;
-            margin: 2px 0;
+            margin: 2px 0 10px;
         }
 
             .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li .fa {
