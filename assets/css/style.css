@@ -1546,6 +1546,8 @@ body {
     .mh-progress .progressbar-text {
         color: inherit !important;
 		font-family: "Figtree", sans-serif;
+        font-weight: 600;
+        font-size: 18px;
     }
 
 .progress.progress-line {
@@ -1764,7 +1766,7 @@ body {
         .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li {
             font-size: 15px;
             line-height: 23px;
-            margin: 2px 0 10px;
+            margin: 2px 0 15px;
         }
 
             .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li .fa {
