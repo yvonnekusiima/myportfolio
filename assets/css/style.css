@@ -29,7 +29,6 @@ html {
 body {
     font-family: "Poppins", sans-serif;
     font-size: 14px;
-    font-style: none;
     line-height: 24px;
     font-weight: 500;
     overflow-x: hidden !important;
@@ -673,9 +672,9 @@ button {
  * General CSS
  * -----------------
  */
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+/*.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-}
+}*/
 
 .white-version.black-bg {
     background-color: #fff;
@@ -1349,7 +1348,7 @@ body {
         }
 
     .mh-home .mh-header-info h2 {
-        font-size: 60px;
+        font-size: 50px;
         font-weight: 600;
         line-height: 65px;
         margin-top: 10px;
@@ -1357,9 +1356,11 @@ body {
     }
 
     .mh-home .mh-header-info h4 {
-        font-size: 26px;
+        font-size: 20px;
         line-height: 34px;
         margin-bottom: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
     }
 
     .mh-home .mh-header-info ul {
@@ -1460,6 +1461,7 @@ body {
     .mh-about .mh-about-inner h2 {
         margin-bottom: 20px;
         margin-top: 20px;
+        font-weight: bold
     }
 
     .mh-about .mh-about-inner p {
@@ -3283,6 +3285,7 @@ body {
 
 .section-title h2 {
     margin-bottom: 60px;
+    font-weight: bold
 }
 
 /*
