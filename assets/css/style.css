@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900");
 
 /*
 ================
@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 14px;
     line-height: 24px;
     font-weight: 500;
@@ -36,10 +36,17 @@ body {
     position: relative;
     color: #999999;
     opacity: 0.9;
+    font-variant-numeric: lining-nums;
+    -moz-font-feature-settings:"lnum" 1; 
+    -moz-font-feature-settings:"lnum=1"; 
+    -ms-font-feature-settings:"lnum" 1; 
+    -o-font-feature-settings:"lnum" 1; 
+    -webkit-font-feature-settings:"lnum" 1; 
+    font-feature-settings:"lnum" 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 
 p {
@@ -1215,7 +1222,7 @@ body {
         .mh-header .navbar-nav li a {
             border-bottom: 1px solid transparent;
             font-weight: 600;
-            font-family: "Poppins", sans-serif;
+            font-family: "Raleway", sans-serif;
             font-size: 18px;
             opacity: 1;
             line-height: 30px;
@@ -1545,7 +1552,7 @@ body {
 
     .mh-progress .progressbar-text {
         color: inherit !important;
-		font-family: "Poppins", sans-serif;
+		font-family: "Raleway", sans-serif;
         font-weight: 600;
         font-size: 18px;
     }
@@ -1615,7 +1622,7 @@ body {
                 right: 0;
                 font-size: 14px;
                 font-weight: 600;
-				font-family: "Poppins", sans-serif;
+				font-family: "Raleway", sans-serif;
             }
 
         .candidatos .parcial .progressBar {
