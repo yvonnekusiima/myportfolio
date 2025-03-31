@@ -274,8 +274,9 @@ section {
     transition: color 0.3s ease;
     outline: 0;
     padding: 8px 30px;
-    font-weight: bold;
+    font-weight: 500;
     border-radius: 20px;
+    font-size: 14px;
 }
 
     .btn:last-child {
